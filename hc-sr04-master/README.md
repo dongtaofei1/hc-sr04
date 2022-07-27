@@ -54,4 +54,4 @@ INIT_ENV_EXPORT(rt_hw_sr04_port);
 ## 联系方式
 
 - 维护：alec-shan
-- 主页：https://github.com/RT-Thread-packages/hc-sr04
+- 主页：https://github.com/alec-shan/hc-sr04
