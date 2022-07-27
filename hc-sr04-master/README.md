@@ -48,7 +48,7 @@ int rt_hw_sr04_port(void)
 
     return RT_EOK;
 }
-INIT_ENV_EXPORT(rt_hw_sr04_port);
+INIT_ENV_EXPORT(rt_hw_sr04_port);//更改了这个地方的代码
 ```
 
 ## 联系方式
